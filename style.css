@@ -283,6 +283,22 @@ p {
 	flex-wrap: wrap;
 	margin-top: 50px;
 }
+#sona1{
+height:100px;
+width:100px;
+}
+#sona{
+height:100px;
+width:100px;
+}
+#sona3{
+height:100px;
+width:100px;
+}
+#sona2{
+height:100px;
+width:100px;
+}
 #services .service-item {
 	flex-basis: 80%;
 	display: flex;
